@@ -1,0 +1,355 @@
+body
+{
+    background-color: rgb(197, 235, 235);
+    
+}
+h1
+{
+    font-size:50px;
+    font-family:Sacramento;
+    
+}
+
+#name
+{
+    text-align: center;
+    font-size: 90px;
+    color:#3893a7
+}
+#name:hover
+{
+    font-size:100px
+    
+    
+}
+.programer
+{
+    text-align: center;
+    color:#38acc6
+    
+}
+.programer:hover
+{
+    font-size:20px;
+    color:rgb(0, 0, 0);
+}
+.firstcloud
+{
+    
+    padding:20px;
+    margin-left:900px;
+    
+    
+}
+.secondcloud
+{
+    margin-left:400px;
+}
+.mountain
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+
+
+.myphoto
+{
+    width:200px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.myphoto:hover
+{
+    width:300px;
+}
+.profile
+{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile:hover
+{
+    font-size:40px;
+}
+.hello
+{
+    text-align: center;
+}
+#imroshan
+{
+    text-align: center;
+}
+#skill
+{
+    text-align: center;
+
+}
+
+.computerimg
+{
+    float:left;
+    border-radius: 100%;
+    margin-left:300px;
+    width:200px;
+}
+
+.webheader
+{
+    margin-left:550px;
+    
+}
+.webheader:hover
+{
+    font-size:30px;
+}
+.pythontxt:hover
+{
+    font-size:30px;
+}
+.aitxt:hover
+{
+    font-size:30px;
+}
+.robottxt:hover
+{
+    font-size:30px;
+}
+
+
+.pythonimg
+{
+    float:right;
+    margin-right:300px;
+    width:200px;
+    
+}
+.pythontxt
+{
+    margin-left:400px;
+}
+.ai
+{
+    float:left;
+    width:150px;
+    margin-left:300px;
+    
+}
+.aitxt
+{
+    margin-left:550px;
+}
+
+.robot
+{
+    float:right;
+    margin-right:300px;
+    width:200px;
+    margin-bottom:200px;
+}
+.robot:hover
+{
+    width:300px;
+}
+.ai:hover
+{
+    width:300px;
+}
+.pythonimg:hover
+{
+    width:300px;
+}
+.computerimg:hover
+{
+    width:300px;
+}
+.robottxt
+{
+    margin-left:550px;
+}
+
+.lastmsg
+{
+    margin-left:650px;
+}
+.contactme
+{
+    margin-left:100px;
+}
+.okhr
+{
+    margin-right:700px;
+    margin-top:100px;
+    margin-bottom:100px;
+
+    
+    width:50px;
+}
+
+
+.hr
+{
+    margin-top:100px;
+    margin-bottom:100px;
+    border-top: dotted;
+    border-bottom: 0px;
+    border-width: 10px;;
+    border-color: rgb(201, 185, 185);
+    
+    width:150px;
+}
+.lasthr
+{
+   
+    border-top: dotted;
+    border-bottom: 0px;
+    border-width: 10px;;
+    border-color: rgb(201, 185, 185);
+    
+    width:150px;
+}
+.insta
+{
+    margin-left: 750px;
+
+}
+.github
+{
+    margin-left: 750px;
+
+}
+.twitter
+{
+    margin-left: 750px;
+}
+.insta:hover
+{
+    
+    font-size:20px;
+}
+.github:hover
+{
+    font-size:20px;
+}
+.twitter:hover
+{
+
+    font-size:20px;
+}
+@media(max-width:1000px)
+{
+    #name
+    {
+        margin-left: 350px;
+        font-size: 70px;
+        width:100%;
+    }
+    .programer
+    {
+        margin-left: 350px;
+        
+        width:100%;
+    }
+    .secondcloud
+    {
+        margin-right: 100px;
+    }
+    .mountain
+    {
+        margin-left: 250px;
+    }
+    .myphoto
+    {
+        margin-top: 70px;
+        margin-left: 450px;
+    }
+    .hello
+    {
+        margin-left: 500px;
+        font-size: 50px;
+    }
+    #imroshan
+    {
+        margin-left: 400px;
+        width:100%;
+        
+        
+    }
+    #skill
+    {
+        margin-left: 370px;
+        width: 100%;
+        font-size: 50px;
+
+    }
+    .computer
+    {
+        margin-left: 150px;
+    }
+    .webheader
+    {
+        width: 100%;
+        margin-top:300px;
+        margin-left:400px;
+    }
+    .okhr
+    {
+        margin-right:-220px;
+    }
+    .pythonimg
+    {
+        margin-right:-300px;
+    }
+    .pythontxt
+    {
+        width: 100%;
+        margin-top:200px;
+    }
+    .ai
+    {
+        margin-left:500px;
+    }
+    .aitxt
+    {
+        width: 100%;
+        margin-top:300px;
+        margin-left:400px;
+
+    }
+    .robot
+    {
+        margin-right:-260px;
+    }
+    .robottxt
+    {
+        width:100%;
+        margin-top:350px;
+        margin-left:400px;
+    }
+    .lastmsg
+    {
+        width:100%;
+        margin-left:450px;
+    }
+    .insta
+    {
+        margin-left:450px;
+        float:left;
+        
+
+    }
+
+    .twitter
+    {
+        margin-left: 650px;
+       
+       
+    }
+}
